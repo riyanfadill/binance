@@ -1,0 +1,6 @@
+{
+  "name": "nonce-solver",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "workspaceFolder": "/workspaces/binance/nonce-solver",
+  "postCreateCommand": "cd /workspaces/binance/nonce-solver && bash setup.sh"
+}
